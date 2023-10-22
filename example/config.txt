@@ -1,0 +1,2 @@
+Prefix plugins/CSV2STAN/example/
+Plugin CSV2STAN inputfile Dataset_for_Bayesian_Model.csv outputfile ./
